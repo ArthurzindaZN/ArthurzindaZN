@@ -2,7 +2,7 @@
 
 meu nome e ArturzindaZn, ou me chame de Arthur se vc prefirir
 
-.Faço curso no Alura ira fazer 06 meses ja
+.Faço curso no (https://www.Alura.com.br) 06 meses ja
 
 .Sou ainda um estudante do ensino Médio
 
